@@ -1,0 +1,39 @@
+nav {
+  background-color: rgba(255, 255, 255, 0.829) !important;
+}
+
+body {
+  color:black !important;
+  margin: auto 18.75%;
+}
+
+p {
+  color: black;
+}
+
+#nav-image {
+  padding:10px;
+}
+
+.brand-logo{
+  font-size: 22px !important;
+  font-style: italic;
+}
+
+#nav-text {
+  padding-top: 5px;
+  font-size: 11px !important;
+}
+
+#nav-wifi {
+  padding-left: 4px;
+}
+
+#ingredients {
+  background-image: url(lab-assests/list-bg.png);
+  background-size: cover;
+}
+footer ul {
+  display:inline-block;
+}
+
